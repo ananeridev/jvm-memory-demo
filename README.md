@@ -1,6 +1,6 @@
-#JVM-memory 
+# JVM-memory :bomb:
 
-##Código para vizualizar as memórias da sua JVM
+## Código para vizualizar as memórias da sua JVM
 
 - Desenvolvido à partir da bilbioteca já existente no Java
 
