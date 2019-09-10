@@ -47,7 +47,7 @@ public class PoolString {
 
         for (MemoryPoolMXBean m : lista){
                 if ((m.getType() == MemoryType.NON_HEAP)
-                        && m.getName().toUpperCase().indexOf("PERM") != -1){
+                        && m.getName().toUpperCase().indexOf("METASPACE") != -1){
                     mp = m;
                     break;
                 }
