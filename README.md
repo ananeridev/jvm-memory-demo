@@ -2,7 +2,7 @@
 
 ## Código para vizualizar as memórias da sua JVM
 
-- Desenvolvido à partir da bilbioteca já existente no Java
+- Desenvolvido à partir da bilbioteca já existente no Java ```java.lang.management```
 
  - Nesse código é possível ver como a memória é organizada, os parâmetros utilizados para inferir nos tamanhos de alocação de cada região
 
